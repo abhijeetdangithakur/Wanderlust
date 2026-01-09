@@ -1,10 +1,3 @@
-Bilkul bhai 👍
-maine **Cloudinary ka part completely hata diya** hai aur **Maps / future features ko thoda natural, human-written tone** me likh diya hai — taaki AI-generated na lage.
-
-👇 **UPDATED README.md (final version)**
-Isko directly copy–paste kar sakta hai 👇
-
----
 
 # 🌍 Wanderlust – Travel Listing Web Application
 
