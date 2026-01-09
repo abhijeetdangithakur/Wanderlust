@@ -17,8 +17,8 @@ The main goal of this project is to practice **backend development, authenticati
 
 ### Frontend
 
-* HTML
 * CSS
+* JavaScript
 * Bootstrap
 * EJS (Embedded JavaScript Templates)
 
